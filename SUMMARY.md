@@ -9,7 +9,6 @@
 ## Installation Guides
 
 * [GrowthCode Installation Overview](installation-guides/growthcode-installation-overview.md)
-* [Install Instructions: GrowthCode Universal ID Module](installation-guides/install-instructions-growthcode-universal-id-module.md)
 * [Installation Instructions: GrowthCode Universal ID Module (UIM)](installation-guides/installation-instructions-growthcode-universal-id-module-uim.md)
 * [Installation Instructions: PubProvidedID & LiveIntentID Module](installation-guides/installation-instructions-pubprovidedid-and-liveintentid-module.md)
 * [Install Guide: Historical first-party data integration (optional)](installation-guides/install-guide-historical-first-party-data-integration-optional.md)

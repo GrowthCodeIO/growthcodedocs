@@ -3,7 +3,7 @@
 ## overview
 
 * [GrowthCode Documentation](README.md)
-* [GrowthCode Overview](overview/growthcode-overview.md)
+* [GrowthCode Documentation](overview/growthcode-documentation-1.md)
 * [GrowthCode Services & Benefits](overview/growthcode-services-and-benefits.md)
 
 ## Installation Guides

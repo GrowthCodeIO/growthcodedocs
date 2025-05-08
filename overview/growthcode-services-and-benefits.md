@@ -8,7 +8,7 @@ description: >-
 
 ## <mark style="color:blue;">Available GrowthCode Services:</mark>
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>GrowthCode Addressability Management Platform Products</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>GrowthCode Addressability Management Platform Products</p></figcaption></figure>
 
 #### <mark style="color:orange;">GrowthCode GRAPH:</mark>
 

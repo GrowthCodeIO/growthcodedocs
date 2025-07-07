@@ -24,4 +24,6 @@ $ gulp serve --modules=userId,pubProvidedIdSystem,liveIntentIdSystem,<Any other 
 
 #### <mark style="color:orange;">LiveIntendId Prebid Config</mark>&#x20;
 
-There is no prebid config for LiveIntent in prebid, the integrated LiveIntent script will take care of the config in prebid. If you have your own Publisher ID or Distributor ID please let Growthcode know.
+There is no prebid config for LiveIntent in prebid, the integrated LiveIntent script will take care of the config in prebid. If you have your own Publisher ID or Distributor ID please let Growthcode know. \
+\
+[This link](https://content.zetaglobal.com/i/gAjk___54O50JWernIjQ8CrnIMMyH6vwjofmA6HZPLUSSIGNf7utPLUSSIGNeMBkYTi3WzEuAEa388EKRFH7le14J6PNJYP5lHRRDEgFFge92suPLUSSIGN8xYhT1VwZqyUfyrI___2KWm3NcfpClDErA) contains all the most up-to-date information about installing LiveIntent

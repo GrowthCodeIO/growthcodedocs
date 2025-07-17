@@ -1,15 +1,13 @@
 ---
 description: >-
-  This documentation repository contains resources to understand and implement
-  GrowthCode's Data refinery solutions. Use Navigation at left to get to the
-  resources you need
+  GrowthCode is the industry's leading addressability management platform. We
+  help publishers, sales houses, and brands fully leverage their first-party
+  data. GrowthCode streamlines identity management
 cover: ../.gitbook/assets/GC-Brand Banner Stub.png
 coverY: 0
 ---
 
-# GrowthCode Documentation
-
-## GrowthCode Overview
+# GrowthCode Overview
 
 ### Introduction to GrowthCode
 

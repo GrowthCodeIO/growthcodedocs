@@ -93,8 +93,7 @@ g.type='text/javascript'; g.async=true; g.src=u+'gcid_s.min.js'; s.parentNode.in
 | usprivacy      | GPP IAB CCPA/USP v1 - Specs                      | optional |
 | nl             | Newsletter Processing (true/false)               | optional |
 | h1             | Hashed email - MD5                               | optional |
-| h2             | Hashed email - SHA256                            | optional |
-| h3             | Hashed email - SHA1                              |          |
+| h3             | Hashed email - SHA256                            | optional |
 
 More information about IAB Global Privacy Platform (GPP) at [https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform](https://github.com/InteractiveAdvertisingBureau/Global-Privacy-Platform)
 

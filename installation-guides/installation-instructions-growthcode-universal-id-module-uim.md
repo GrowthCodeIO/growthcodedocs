@@ -45,8 +45,10 @@ Publishers with a CDP, DMP, or proprietary identity system can enhance their aud
 These parameters allow you to send hashed emails using industry-standard encryption methods:
 
 * h1: MD5
-* h2: SHA-256
-* h3: SHA-1
+* h2: SHA-1 (No longer used)
+* h3: SHA-256
+
+
 
 **How It Works:**
 

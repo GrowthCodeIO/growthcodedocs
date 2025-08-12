@@ -73,8 +73,7 @@ _gcio.push(['pid', pid]); 
 _gcio.push(['uid', uid]);        // Optional
 _gcio.push(['tcf', tcf]);        // Optional
 _gcio.push(['h1', ‘hashed email’]);        // Optional (Email Hash - MD5)
-_gcio.push(['h2', ‘hashed email’]);        // Optional (Email Hash - SHA-256)
-_gcio.push(['h3', ‘hashed email’]);        // Optional (Email Hash - SHA-1)
+_gcio.push(['h3', ‘hashed email’]);        // Optional (Email Hash - SHA-256)
 var d=document, g=d.createElement('script'), 
 s=d.getElementsByTagName('script')[0]; 
 g.type='text/javascript'; g.async=true; g.src=u+'gcid_s.min.js'; s.parentNode.insertBefore(g,s); 

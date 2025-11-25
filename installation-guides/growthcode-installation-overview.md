@@ -87,4 +87,4 @@ In addition to bid decoration, some SSPs and DSPs allow publishers to sync their
 * Your Epsilon Publisher Id (If using)
 * Criteo Id (If using)
 
-If you are not currently integrated with these SSP’s GrowthCode can help with introductions. If you are integrated, please provide the Publisher ID provided to you by the associated SSP.\
+If you are not currently integrated with these SSP’s GrowthCode can help with introductions. If you are integrated, please provide the Publisher ID provided to you by the associated SSP.<br>

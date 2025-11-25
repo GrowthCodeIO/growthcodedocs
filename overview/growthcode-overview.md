@@ -21,7 +21,7 @@ These resources will help you better understand and deploy GrowthCode to power y
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="broken-reference"><mark style="color:orange;"><strong>Installation</strong></mark></a></td><td></td><td></td></tr><tr><td><a href="broken-reference"><mark style="color:orange;"><strong>Measurement</strong></mark></a></td><td></td><td></td></tr><tr><td><a href="broken-reference"><mark style="color:orange;"><strong>Reference</strong></mark></a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="/broken/pages/hPM6nCE6sxVD3ry8PRyF"><mark style="color:orange;"><strong>Installation</strong></mark></a></td><td></td><td></td></tr><tr><td><a href="/broken/pages/xKgmIHc6acVvNvdRUDYt"><mark style="color:orange;"><strong>Measurement</strong></mark></a></td><td></td><td></td></tr><tr><td><a href="/broken/pages/rvc3jJ2NmybtBnQtK5KL"><mark style="color:orange;"><strong>Reference</strong></mark></a></td><td></td><td></td></tr></tbody></table>
 
 
 

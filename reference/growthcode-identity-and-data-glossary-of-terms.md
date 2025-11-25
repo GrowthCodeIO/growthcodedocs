@@ -29,8 +29,7 @@ The valuable user data collected through an identity spine can attract advertise
 * **Increased Security:** Implementing robust authentication and authorization protocols within an identity spine enhances security measures, protecting user data and mitigating risks of unauthorized access or data breaches.
 * **CrossPlatform Reach:** Publishers can extend their reach across multiple platforms and devices. Users can access content and services seamlessly, whether on desktops, mobile devices, smart TVs, or other connected devices, ensuring a consistent experience.
 
-By integrating and utilizing an identity spine, publishers can significantly enhance their capabilities in understanding and engaging with their audience. This will lead to more effective content delivery and increased monetization potential.\
-
+By integrating and utilizing an identity spine, publishers can significantly enhance their capabilities in understanding and engaging with their audience. This will lead to more effective content delivery and increased monetization potential.<br>
 
 ## <mark style="color:orange;">Deterministic vs Probabilistic Identity</mark>
 
@@ -67,8 +66,7 @@ Many identity solutions integrate deterministic and probabilistic elements to ba
 
 ### <mark style="color:orange;">Conclusion:</mark>
 
-The choice between deterministic and probabilistic identity methods depends on the application's specific needs, the importance of accuracy versus scale, and the available data. Both approaches have advantages and can be effectively combined to optimize user identification and targeting strategies.\
-
+The choice between deterministic and probabilistic identity methods depends on the application's specific needs, the importance of accuracy versus scale, and the available data. Both approaches have advantages and can be effectively combined to optimize user identification and targeting strategies.<br>
 
 ## <mark style="color:orange;">Offline Data</mark>
 
@@ -101,8 +99,7 @@ In digital advertising and data management, PII is highly sensitive and subject 
 
 When handling PII, companies must implement robust security measures to protect this information from unauthorized access, breaches, and misuse. Additionally, they must obtain explicit consent from individuals before collecting, storing, or using their PII for any purpose, including advertising and marketing activities.
 
-Protecting PII is crucial for maintaining consumer trust and compliance with legal requirements. Failure to adequately protect PII can lead to significant legal penalties, reputational damage, and loss of customer trust.\
-
+Protecting PII is crucial for maintaining consumer trust and compliance with legal requirements. Failure to adequately protect PII can lead to significant legal penalties, reputational damage, and loss of customer trust.<br>
 
 ## <mark style="color:orange;">Universal Identifiers and First-Party Data</mark>
 
@@ -224,8 +221,7 @@ The IAB Taxonomy provides a standardized framework for classifying and organizin
 
 The taxonomy includes a hierarchical structure with multiple levels of categories and subcategories. It covers various aspects of digital advertising, including ad formats, industry sectors, content types, and targeting methods. Each category within the taxonomy represents a specific aspect or attribute of digital advertising.
 
-By using the IAB Taxonomy, advertisers and publishers can ensure that their ads are properly classified and aligned with relevant content. This can improve the targeting, relevance, and effectiveness of advertising campaigns. Additionally, it enables better data analysis and reporting, as the taxonomy provides a consistent and standardized way of categorizing digital advertising content across different platforms and systems.\
-
+By using the IAB Taxonomy, advertisers and publishers can ensure that their ads are properly classified and aligned with relevant content. This can improve the targeting, relevance, and effectiveness of advertising campaigns. Additionally, it enables better data analysis and reporting, as the taxonomy provides a consistent and standardized way of categorizing digital advertising content across different platforms and systems.<br>
 
 ## <mark style="color:orange;">Wrapper (Header Bidding Wrapper, Wrapper Tag)</mark>
 
@@ -239,8 +235,7 @@ A prebid wrapper is a container for all the header bidding codes from various de
 
 The advantage of using a prebid wrapper is that it simplifies the implementation and management of header bidding. Rather than individually integrating the code of each demand partner, the publisher only needs to implement a single wrapper tag. The wrapper communicates with the exchanges, collects bids, and passes them to the ad server. Additionally, wrappers often provide features like bid caching, timeout management, and analytics, further enhancing the efficiency and effectiveness of header bidding.
 
-Overall, a prebid wrapper streamlines the header bidding process, improves competition among demand partners, and helps publishers maximize their advertising revenue.\
-
+Overall, a prebid wrapper streamlines the header bidding process, improves competition among demand partners, and helps publishers maximize their advertising revenue.<br>
 
 ## <mark style="color:orange;">Prebid (prebid.org)</mark>
 
@@ -272,8 +267,7 @@ The main job of an RTD prebid module is to collect and analyze real-time data ab
 
 The RTD prebid module connects with data providers, demand side platforms, and ad exchanges to exchange data and bidding information. It accesses real-time data streams, applies algorithms and rules, and generates optimized bid responses based on available inventory and advertiser preferences.
 
-In summary, an RTD prebid module is software that uses real-time data to improve the efficiency and effectiveness of bidding in programmatic advertising. It helps advertisers make informed decisions and achieve better results in their campaigns.\
-
+In summary, an RTD prebid module is software that uses real-time data to improve the efficiency and effectiveness of bidding in programmatic advertising. It helps advertisers make informed decisions and achieve better results in their campaigns.<br>
 
 ## <mark style="color:orange;">Bid Enrichment / Bid Enhancement / Bid Decoration</mark>
 
@@ -326,4 +320,4 @@ Audience curation often involves using various tools and technologies, such as d
 
 Overall, audience curation plays a crucial role in optimizing digital advertising efforts. It ensures that the right message is delivered to the right people at the right time, leading to improved campaign performance and better overall results.
 
-\
+<br>

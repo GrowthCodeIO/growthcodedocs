@@ -36,8 +36,7 @@ GrowthCode calculates uplift using a straightforward and structured method:
 2. Calculate the **eCPM of the Control Cohort** by dividing total revenue by total impressions.
 3. Apply the same process to the **Test Cohort** to calculate its **eCPM**.
 4. Measure the difference between the **eCPM values** of the Test and Control Cohorts to find the incremental revenue per thousand impressions.
-5. Multiply the **incremental eCPM** by the total impressions in the Test Cohort to determine the **total uplift.**\
-
+5. Multiply the **incremental eCPM** by the total impressions in the Test Cohort to determine the **total uplift.**<br>
 
 ### MEASUREMENT & DASHBOARD
 
@@ -67,9 +66,8 @@ Results typically stabilize within **14-21 days**. Publishers will have access t
 
 For details or support, contact your GrowthCode representative.
 
-\
-
+<br>
 
 _<mark style="color:orange;">NOTE: The Prebid “Asteroid” identity measurement module will be available shortly, and GrowthCode will add this testing tool to our services.</mark>_  &#x20;
 
-\
+<br>

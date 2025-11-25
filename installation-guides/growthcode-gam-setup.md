@@ -10,8 +10,7 @@ be found under the section ‘Inventory -> Key Values.’
 
 ### <mark style="color:orange;">Create a custom dimension key-value pair using GAM.</mark>
 
-This key value will track the GrowthCode Bid Enrichment Switchboard's performance compared to the control group. Its value must be isolated and independent, not shared or combined with other reporting purposes or features. Only the GrowthCode measurement script should set the values for this key-value item to ensure accurate reporting.\
-
+This key value will track the GrowthCode Bid Enrichment Switchboard's performance compared to the control group. Its value must be isolated and independent, not shared or combined with other reporting purposes or features. Only the GrowthCode measurement script should set the values for this key-value item to ensure accurate reporting.<br>
 
 1. The new key-value item will be named: ‘gc\_test’.&#x20;
 2.  The following values should be copied and pasted into the Google Ad Manager UI for the new key/value item. (These values can all be pasted into the box as one batch):&#x20;

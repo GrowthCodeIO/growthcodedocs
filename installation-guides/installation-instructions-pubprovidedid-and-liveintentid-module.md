@@ -17,7 +17,7 @@ $ gulp serve --modules=userId,pubProvidedIdSystem,liveIntentIdSystem,<Any other 
 ```
 {% endcode %}
 
-#### <mark style="color:orange;">Code in your Prebid Config</mark>&#x20;
+#### <mark style="color:orange;">PubProvidedId Prebid Config</mark>&#x20;
 
 There is no prebid config for pubProvidedId in prebid, the integrated Growthcode's script will take care of the config in prebid. &#x20;
 

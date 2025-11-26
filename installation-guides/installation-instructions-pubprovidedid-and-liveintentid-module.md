@@ -19,8 +19,7 @@ $ gulp serve --modules=userId,pubProvidedIdSystem,liveIntentIdSystem,<Any other 
 
 #### <mark style="color:orange;">Code in your Prebid Config</mark>&#x20;
 
-| <p>pbjs.setConfig(</p><p>    . . .</p><p>    userSync: {</p><p>       . . .</p><p>       "syncsPerBidder": 5,</p><p>       "syncDelay": 3000,</p><p>       "auctionDelay": 0,</p><p>       . . .</p><p>      </p><p>       userIds: [</p><p>         . . .</p><p>         {</p><p>             name: "pubProvidedId",</p><p>             params: {</p><p>                 eidsFunction: growthCodeEids,</p><p>             }</p><p>         },</p><p>         . . .</p><p>       ]</p><p>    }</p><p>    . . .</p><p> }</p> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+There is no prebid config for pubProvidedId in prebid, the integrated Growthcode's script will take care of the config in prebid. &#x20;
 
 #### <mark style="color:orange;">LiveIntendId Prebid Config</mark>&#x20;
 

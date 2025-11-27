@@ -4,7 +4,7 @@ The PubProvidedId module supports the GrowthCode on-page script (above). This mo
 
 ### <mark style="color:orange;">PreBid Module Requirements</mark>
 
-* Prebid <= Version 8.00.0
+* Prebid <= Version 9.53.3, 10.16.0
 * GrowthCode HEM Resolution Sync Installed
 
 #### <mark style="color:orange;">Building Prebid with PubProvided Id Support</mark>

@@ -19,7 +19,7 @@ var uid = "YOUR USER ID";    // Optional
 var tcf = "USER TCF STRING"; // Optional 
 var nl = true; 
 (function() {  
-var u = "//s.cdn.gcprivacy.net/t/";
+var u = "//s.cdn.gcprivacy.net/";
 _gcio.push(['pid', pid]); 
 _gcio.push(['uid', uid]);        // Optional
 _gcio.push(['tcf', tcf]);        // Optional
@@ -68,7 +68,7 @@ var uid = "YOUR USER ID";    // Optional
 var tcf = "USER TCF STRING"; // Optional 
 var nl = true; 
 (function() { 
-var u = "//s.cdn.gcprivacy.net/t/";
+var u = "//s.cdn.gcprivacy.net/";
 _gcio.push(['pid', pid]); 
 _gcio.push(['uid', uid]);        // Optional
 _gcio.push(['tcf', tcf]);        // Optional
